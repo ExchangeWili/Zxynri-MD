@@ -50,13 +50,13 @@ const defaultMenu = {
 ⫹⫺ Kesabaran
 ⫹⫺ Penyemangat
 ⫹⫺ Nurutomo
-⫹⫺ Ilmanhdyt
+⫹⫺ ALL MY FRIENDS
 ⫹⫺ Elyas
 ⫹⫺ Hyzer
 ⫹⫺ KrizynOfc
 ⫹⫺ RielgansOfc
 ⫹⫺ Zifabotz_offc1
-⫹⫺ DaniBotz-Ofc
+⫹⫺ ZyuraOFC
 ╰─────────────⬣
 `,
 }
