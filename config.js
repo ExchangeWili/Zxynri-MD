@@ -57,8 +57,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'DaniBotz-Ofc'
-global.author = '@Dani Official'
+global.packname = 'NEO MULTI DEVICE'
+global.author = '@ZYREX'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
